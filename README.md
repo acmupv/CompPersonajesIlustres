@@ -1,2 +1,3 @@
 # Competición de programación: "Personajes ilustres de la Informática"
-Repositorio con el codigo en varios lenguajes de todos los problemas de la competición
+![Cartel del reto](https://github.com/acmupv/CompPersonajesIlustres/blob/main/Cartel.jpeg)
+Repositorio con el codigo en, al menos un lenguaje, de los 10 problemas de la competición
