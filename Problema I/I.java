@@ -1,3 +1,5 @@
+import java.util.*;
+
 class Solution {
 
   // Hash table that takes care of the mappings.
