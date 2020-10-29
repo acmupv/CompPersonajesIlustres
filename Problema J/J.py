@@ -1,5 +1,5 @@
-def func(prices):
-    If min(prices)>budget:
+def func(prices, budget):
+    if min(prices) > budget:
     	return 0
 
     prices = [0] + prices + [0]
