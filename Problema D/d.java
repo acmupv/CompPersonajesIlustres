@@ -21,7 +21,7 @@ public class d {
 	        }
 
 	        int a;
-	        for(a=0; a < d2-d1; a++) System.out.print(d1 + a+1); 
+	        for(a=0; a < d2-d1; a++) System.out.print(d1 + a + 1 + " "); 
 	        System.out.print(d1 + a+1);
 
 	        System.out.println();
