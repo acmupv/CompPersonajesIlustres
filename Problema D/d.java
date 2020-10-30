@@ -1,4 +1,3 @@
-package compersilus;
 import java.util.*;
 
 public class d {
