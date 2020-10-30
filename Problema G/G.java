@@ -1,3 +1,5 @@
+import java.util.*;
+
 class Solution {
     public int kSimilarity(String A, String B) {
         Queue<String> queue = new ArrayDeque();

@@ -1,3 +1,5 @@
+import itertools
+
 class Solution(object):
     def kSimilarity(self, A, B):
         if A == B: return 0
