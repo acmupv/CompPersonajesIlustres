@@ -1,10 +1,5 @@
 import sys
 
-if __name__ == "__main__":
-    a = sys.stdin.readline
-    b = str(sys.stdin.readline).split()
-    print(maxWater(a, b))
-
 def maxWater(arr, n): 
     size = n - 1
   
@@ -36,3 +31,8 @@ def maxWater(arr, n):
   
     return water 
   
+if __name__ == "__main__":
+    a = int(str(sys.stdin.readline()))
+    b = str(sys.stdin.readline()).split()
+    b = list(map(int, b)) 
+    print(maxWater(b, a))
