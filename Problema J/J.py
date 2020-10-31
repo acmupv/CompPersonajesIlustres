@@ -1,6 +1,6 @@
 def func(prices, budget):
     if min(prices) > budget:
-    	return 0
+        return 0
 
     prices = [0] + prices + [0]
     for L in range(len(prices) - 2, 1, -1):

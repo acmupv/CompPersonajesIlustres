@@ -34,8 +34,8 @@ bool isValid(string s) {
 int main(){
     string res;
     while(cin >> res){
-        if(isValid(res)) cout << "true" << endl;
-        else cout << "false" << endl;
+        if(isValid(res)) cout << "YES" << endl;
+        else cout << "NO" << endl;
     }
     return(0);
 }

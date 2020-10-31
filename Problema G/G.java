@@ -1,6 +1,7 @@
 import java.util.*;
 
-class Solution {
+public class G {
+
     public int kSimilarity(String A, String B) {
         Queue<String> queue = new ArrayDeque();
         queue.offer(A);
@@ -45,4 +46,5 @@ class Solution {
         T[i] = T[j];
         T[j] = tmp;
     }
+    
 }

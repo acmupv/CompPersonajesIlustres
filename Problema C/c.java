@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class c {
+public class C {
 	
 	public static String desencriptar(int k, String s) 
 	{

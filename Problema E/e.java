@@ -1,6 +1,5 @@
-package compersilus;
 import java.util.*;
-public class e {
+public class E {
 	
    	public static void main (String [] args) {
 		int N, I;
